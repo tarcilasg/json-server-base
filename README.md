@@ -4,6 +4,8 @@ Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configur
 
 ## Endpoints
 
+Base dos endpoints: https://json-server-catalogue-movies.herokuapp.com/
+
 ### Cadastro
 
 POST /signup
