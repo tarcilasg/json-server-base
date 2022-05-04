@@ -6,6 +6,61 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "graca@mail.com",
+      "password": "$2a$10$/Ta0xi.oC4B.jGklqOwYuuUEltWSRqXB0Kl3jdl0lRANKbDdjT0Km",
+      "name": "Graça",
+      "age": 70,
+      "id": 2
     }
-  ]
+  ],
+  "movies": [
+    {
+      "title": "Jaw",
+      "filmgenre": "horror",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "Bambi",
+      "filmgenre": "animation",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "title": "Titanic",
+      "filmgenre": "drama",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "title": "Magnolia",
+      "filmgenre": "drama",
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "title": "Donnie Darko",
+      "filmgenre": "mystery",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "title": "Dracula",
+      "filmgenre": "horror",
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "title": "Finding Nemo",
+      "filmgenre": "animation",
+      "userId": 1,
+      "id": 12
+    }
+  ],
+  "bio": {
+    "bio": "Passioned by theatre since my 6 years old. I wanna catalogue all that I watched since then",
+    "userId": 2
+  }
 }
